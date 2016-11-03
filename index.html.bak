@@ -2,15 +2,16 @@
 <html>
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-    <title>photo_blurred3</title>
+    <title>Yiming Zhao</title>
     <meta name="description" content="website description">
     <meta name="keywords" content="website keywords, website keywords">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!-- modernizr enables HTML5 elements and feature detects -->
     <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
   </head>
-  <body style="height: 856px;">
-    <div id="bg"> <img src="images/background.jpg" alt="home"> </div>
+  <body style="  height: 856px;">
+    <div id="bg"> <img style=" height: 856px;" src="images/background.jpg" alt="home">
+    </div>
     <div style="height: 856px;" id="main">
       <header style="height: 100px;">
         <div style="height: 149px;" id="logo">
@@ -92,8 +93,10 @@
             Deane Yang</a> (Deputy Department Head), and <a target="_blank" href="https://sites.google.com/site/gaoyongzhang/">Dr.
             Gaoyong Zhang</a>. <br>
           <h2>My Research Interests</h2>
-          <br>
-        </div>
+          <p>My research interests include, but are by no means limited to,
+            geometric analysis, partial differential equation, and functional
+            analysis. In particular, I am interested in&nbsp; </p>
+          <span style="font-family: &quot;News Cycle&quot;,arial;"></span> </div>
       </div>
       <div id="scroll"> <a title="Scroll to the top" class="top" href="#"><img
             src="images/top.png"
